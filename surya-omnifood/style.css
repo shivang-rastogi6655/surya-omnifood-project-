@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: border-box;
+}
+html,
+body {
+  font-family: sans-serif;
+  background-color: white;
+  height: 100vh;
+  width: 100%;
+  line-height: 1;
+  font-weight: 400;
+  color: #555;
+}
+/*
+----------------------01 Typography System-------------------------------
+
+- FONT SIZE SYSTEM (px)
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+-Font Weight:  400(Default)
+
+
+SPACING SYSTEM (px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+
+------------------02 Colors---------------------
+
+-primary:#e67e22
+-Tints:
+-Shades:
+-Accents:
+-Greys:#555
+
+------------------03 Shadows---------------------
+
+------------------04 Border-radius---------------------
+
+------------------05 White Space---------------------
+
+
+
+
+*/
